@@ -343,7 +343,8 @@ This project demonstrates:
 
 ## 👥 Team Members
 
-- TUYISHIME Christian - Vision & Integration,ESP8266 & Hardware
+- TUYISHIME Christian - Vision & Integration
+- GANZA Chael - ESP8266 & Hardware
 - NTARE KAYITARE Prince - Backend & Deployment
 - BAGABO Bonny - Dashboard & Documentation
 
